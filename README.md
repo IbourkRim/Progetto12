@@ -2,6 +2,7 @@
 catalogolibri
 Non sono riuscita sta volta a fare il commit del progetto da Eclipse, ho lasciato pure una foto dell'errore che mi dava, e ho zippato il progetto.
 
+Database:postgres
 -spiegazione del progetto:
 -accedere tramite login, con "admin" "admin" 
 -inserire il token.
